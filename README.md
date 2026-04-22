@@ -3,7 +3,7 @@
 > "Performance-driven design, built from the ground up."
 
 ### 📱 Preview
-![UI Preview](AREA.jpg)
+![UI Preview](AREA.png)
 
 ### 🏗️ Project Status
 - **Progress:** 70% Complete
